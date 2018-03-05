@@ -1,0 +1,13 @@
+{
+    "workbench.startupEditor": "newUntitledFile",
+    "python.linting.flake8Enabled": true,
+    "python.linting.pylintEnabled": false,
+    "editor.wordWrap": "on",
+    "workbench.activityBar.visible": true,
+    "editor.minimap.enabled": false,
+    "window.zoomLevel": -1,
+    "workbench.panel.location": "bottom",
+    "java.errors.incompleteClasspath.severity": "ignore",
+    "editor.lineNumbers": "relative",
+    "diffEditor.ignoreTrimWhitespace": false,
+}
