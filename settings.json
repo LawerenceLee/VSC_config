@@ -5,7 +5,7 @@
     "editor.wordWrap": "on",
     "workbench.activityBar.visible": true,
     "editor.minimap.enabled": false,
-    "window.zoomLevel": -1,
+    "window.zoomLevel": 0,
     "workbench.panel.location": "bottom",
     "java.errors.incompleteClasspath.severity": "ignore",
     "editor.lineNumbers": "relative",
