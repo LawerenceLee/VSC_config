@@ -10,4 +10,5 @@
     "java.errors.incompleteClasspath.severity": "ignore",
     "editor.lineNumbers": "relative",
     "diffEditor.ignoreTrimWhitespace": false,
+    "workbench.colorTheme": "Atom One Dark",
 }
