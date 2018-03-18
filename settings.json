@@ -8,5 +8,5 @@
     "window.zoomLevel": 0,
     "editor.lineNumbers": "relative",
     "diffEditor.ignoreTrimWhitespace": false,
-    "workbench.colorTheme": "Atom One Dark",
+    "workbench.colorTheme": "One Monokai",
 }
