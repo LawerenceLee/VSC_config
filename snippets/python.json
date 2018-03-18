@@ -13,7 +13,7 @@
 	// 	"description": "Log output to console"
 	// }
 	"if __name__ == '__main__':": {
-		"prefix": "if _",
-		"body": "if __name__ == '__main__':\n$1"
+		"prefix": "dname",
+		"body": "if __name__ == '__main__':\n\t$1"
 	}
 }
