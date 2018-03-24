@@ -11,4 +11,12 @@
     "workbench.colorTheme": "One Monokai",
     "git.confirmSync": false,
     "python.pythonPath": "/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python",
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/**.pyc": true,
+    }
 }
