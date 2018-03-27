@@ -19,5 +19,6 @@
         "**/.DS_Store": true,
         "**/**.pyc": true,
         "**/.vscode": true,
-    }
+    },
+    "workbench.iconTheme": "vscode-great-icons"
 }
