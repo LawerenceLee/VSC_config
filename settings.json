@@ -19,6 +19,7 @@
         "**/.DS_Store": true,
         "**/**.pyc": true,
         "**/.vscode": true,
+        "**/.keep": true,
     },
     "workbench.iconTheme": "vscode-great-icons",
     "telemetry.enableTelemetry": false,
