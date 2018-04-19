@@ -24,5 +24,6 @@
     "workbench.iconTheme": "vscode-great-icons",
     "telemetry.enableTelemetry": false,
     "telemetry.enableCrashReporter": false,
+    "workbench.statusBar.feedback.visible": false,
     
 }
