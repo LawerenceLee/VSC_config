@@ -26,5 +26,6 @@
     "telemetry.enableCrashReporter": false,
     "workbench.statusBar.feedback.visible": false,
     "vsicons.dontShowNewVersionMessage": true,
+    "vsicons.projectDetection.disableDetect": true,
     
 }
