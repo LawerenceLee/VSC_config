@@ -27,5 +27,5 @@
     "workbench.statusBar.feedback.visible": false,
     "vsicons.dontShowNewVersionMessage": true,
     "vsicons.projectDetection.disableDetect": true,
-    
+    "workbench.panel.defaultLocation": "right", 
 }
